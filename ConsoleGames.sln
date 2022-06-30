@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuessNumberGame", "GuessNumberGame\GuessNumberGame.csproj", "{79761EFD-126D-4098-BACB-76424BB1A48E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{B0F459A2-5171-4DF7-8167-A0DAF49B8270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{B0F459A2-5171-4DF7-8167-A0DAF49B8270}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RPG", "RPG\RPG.csproj", "{4E4F9F75-C496-4F3E-B03A-72A275DFCA9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menus", "Menu\Menus.csproj", "{7A43DB77-E86D-49C5-BCAE-3CAA6F9E0DA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B0F459A2-5171-4DF7-8167-A0DAF49B8270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0F459A2-5171-4DF7-8167-A0DAF49B8270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0F459A2-5171-4DF7-8167-A0DAF49B8270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4F9F75-C496-4F3E-B03A-72A275DFCA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4F9F75-C496-4F3E-B03A-72A275DFCA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4F9F75-C496-4F3E-B03A-72A275DFCA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4F9F75-C496-4F3E-B03A-72A275DFCA9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A43DB77-E86D-49C5-BCAE-3CAA6F9E0DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A43DB77-E86D-49C5-BCAE-3CAA6F9E0DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A43DB77-E86D-49C5-BCAE-3CAA6F9E0DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A43DB77-E86D-49C5-BCAE-3CAA6F9E0DA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
